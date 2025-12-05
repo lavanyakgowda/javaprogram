@@ -1,0 +1,19 @@
+package javaproject;
+import java.util.Scanner;
+
+public class CricketScore {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the score of A");
+		int teamscore=sc.nextInt();
+		System.out.println("Enter the score of B");
+		if(teamscore<=100 && teamAsore=200)
+		
+		
+		
+
+	}
+
+}
